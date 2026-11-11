@@ -32,7 +32,7 @@ Com formação em Agronomia (UFU) e Eletrônica (SENAI), uso programação e an�
 - Lean Six Sigma Yellow Belt
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipesantosrocha)
-[![felipe.s.rocha@hotmail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesantosrocha)
+[![mailto:felipe.s.rocha@hotmail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
 
 > *Do campo ao código.* 🌾💻
