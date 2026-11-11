@@ -33,6 +33,6 @@ Com formação em Agronomia (UFU) e Eletrônica (SENAI), uso programação e an�
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesantosrocha)
-[![mailto:felipe.s.rocha@hotmail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:felipe.s.rocha@hotmail.com)
 
 > *Do campo ao código.* 🌾💻
